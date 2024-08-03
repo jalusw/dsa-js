@@ -1,0 +1,12 @@
+{
+  "name": "dsa-js",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^2.0.5"
+  }
+}
